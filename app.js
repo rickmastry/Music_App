@@ -85,7 +85,7 @@ let track_list = [
   },
   {
     image: "hearmycry.jpg",
-    path: "songs/Hear My Cry.mp3",
+    path: "songs/Hear My Cry Master.mp3",
     name: "Hear My Cry",
     artist: "Rick Mastry",
   },
