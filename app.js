@@ -97,7 +97,7 @@ let track_list = [
   },
   {
     image: "mmblacksquare.png",
-    path: "songs/I know.mp3",
+    path: "songs/I Know.mp3",
     name: "I Know",
     artist: "Rick Mastry",
   },
