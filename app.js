@@ -143,6 +143,18 @@ let track_list = [
     name: "Three The Hard Way",
     artist: "Rick Mastry",
   },
+  {
+    image: "rasta.png",
+    path: "songs/Real Love.mp3",
+    name: "Real Love",
+    artist: "Rick Mastry",
+  },
+  {
+    image: "rasta.png",
+    path: "songs/Rebel Music.mp3",
+    name: "Rebel Music",
+    artist: "Rick Mastry",
+  },
 ];
 
 function loadTrack(track_index) {
