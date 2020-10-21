@@ -30,8 +30,8 @@ let track_list = [
   },
   {
     image: "mmblacksquare.png",
-    path: "songs/Burn Dem Brdge 5.wav",
-    name: "Silky Smooth",
+    path: "songs/Burn Dem Bridge 5.wav",
+    name: "Burn Dem Bridge",
     artist: "Rick Mastry",
   },
   {
