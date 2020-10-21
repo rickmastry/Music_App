@@ -24,25 +24,31 @@ let curr_track = document.createElement("audio");
 let track_list = [
   {
     image: "mmblacksquare.png",
-    path: "songs/70s Wonder.mp3",
+    path: "songs/70s Wonder 7.wav",
     name: "70s Wonder",
     artist: "Rick Mastry",
   },
   {
+    image: "mmblacksquare.png",
+    path: "songs/Burn Dem Brdge 5.wav",
+    name: "Silky Smooth",
+    artist: "Rick Mastry",
+  },
+  {
     image: "rasta.png",
-    path: "songs/Agenda2030.mp3",
+    path: "songs/Agenda2030.wav",
     name: "Agenda 2030",
     artist: "Rick Mastry",
   },
   {
     image: "mmblacksquare.png",
-    path: "songs/Be Brave.mp3",
+    path: "songs/Be Brave 5.wav",
     name: "Be Brave",
     artist: "Rick Mastry",
   },
   {
     image: "rasta.png",
-    path: "songs/Africa.mp3",
+    path: "songs/Africa 2.wav",
     name: "Africa",
     artist: "Rick Mastry",
   },
